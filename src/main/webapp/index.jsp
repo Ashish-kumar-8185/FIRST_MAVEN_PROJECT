@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins Successfully Deloyed from Jenkins Automation</h2>
+<h2>Jenkins Successfully Deloyed from Jenkins Scripted Pipeline</h2>
 </body>
 </html>
